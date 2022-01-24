@@ -3,6 +3,8 @@ Proyecto para el Reto de tripulación The Bridge
 
 Equipo FullStack: Alvaro, Isa & Taniu 
 
+https://pure-reef-37923.herokuapp.com/
+
 
 – config
 configure PostgreSQL database & Sequelize
